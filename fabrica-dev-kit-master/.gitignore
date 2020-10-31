@@ -1,0 +1,5 @@
+/node_modules/
+/provision/tmp/
+_resources/
+.DS_Store
+.vscode/
